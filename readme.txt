@@ -14,3 +14,7 @@ Couldn't find the original document anywhere, but it helped me understand the or
 Tenna Editor contributors
 https://github.com/tennaproject/tenna-editor
 More understanding of specifically flags, helping me check my work to see if the saves I'm putting out are valid.
+
+UndertaleModTool
+https://github.com/UnderminersTeam/UndertaleModTool
+Used to decompile the game to maybe understand the way it saves files.
